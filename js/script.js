@@ -88,27 +88,3 @@ newGame.onclick = function () {
     music.currentTime = 0
     box.classList.remove('box-toggle')
 }
-
-
-
-
-// var music = new Audio()
-// music.src = "sound/music-back.mp3"
-// var soundEffect1 = new Audio()
-// soundEffect1.src = "sound/Huh.mp3"
-// var soundEffect2 = new Audio()
-// soundEffect2.src = "sound/Hilarious.mp3"
-
-// var music = document.createElement("audio")
-// music.setAttribute("src", "sound/music-back.mp3")
-// var soundEffect1 = document.createElement("audio")
-// music.setAttribute("src", "sound/Huh.mp3")
-// var soundEffect2 = document.createElement("audio")
-// music.setAttribute("src", "sound/Hilarious.mp3")
-
-// const music = document.createElement('audio')
-// music.src = 'sound/music-back.mp3'
-// const soundEffect1 = document.createElement('audio')
-// soundEffect1.src = 'sound/Huh.mp3'
-// const soundEffect2 = document.createElement('audio')
-// soundEffect2.src = 'sound/Hilarious.mp3'
