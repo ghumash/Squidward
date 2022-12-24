@@ -1,5 +1,6 @@
 https://ghumash.github.io/Squidward/
 
 # 🛠 TECHNOLOGIES
-- **HTNL**
+- **JavaScript**
 - **CSS**
+- **HTML**
